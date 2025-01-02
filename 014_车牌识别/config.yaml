@@ -1,0 +1,9 @@
+train: D:\BaiduSyncdisk\jupyter\014_车牌识别\dataset\train\images
+
+val: D:\BaiduSyncdisk\jupyter\014_车牌识别\dataset\val\images
+
+test: D:\BaiduSyncdisk\jupyter\014_车牌识别\dataset\test\images
+
+nc: 1
+
+names: [车牌, ] 

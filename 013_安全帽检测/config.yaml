@@ -1,0 +1,9 @@
+train: D:\BaiduSyncdisk\jupyter\013_安全帽检测\dataset\Helmet2\css-data\train\images
+
+val: D:\BaiduSyncdisk\jupyter\013_安全帽检测\dataset\Helmet2\css-data\valid\images
+
+test: D:\BaiduSyncdisk\jupyter\013_安全帽检测\dataset\Helmet2\css-data\test\images
+
+nc: 10
+
+names: [有帽子, 有口罩, 没帽子, 没口罩, 无背心, 人 , 安全锥, 有背心, 机械, 车] 
